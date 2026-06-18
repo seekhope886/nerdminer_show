@@ -7,4 +7,6 @@ Show Nerdminer status with ESP32 C3 super mini
  * BTC account 後取回資料顯示
  * 有使用Nerdminer礦機的可以參考使用
 
+<img src="https://github.com/seekhope886/nerdminer_show/blob/main/IMG_20260618_101823.jpg?raw=true" width="200" alt="NerdminerShow">
+
  * 
