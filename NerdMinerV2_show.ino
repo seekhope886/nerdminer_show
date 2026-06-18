@@ -16,11 +16,11 @@
 
 // 引入您自訂的中文字型檔
 #include "u8g2_font_.h" 
-const char* ssid     = "D-Link_DIR-612";
-const char* password = "27687425";
+const char* ssid     = "your WIFI SSID";
+const char* password = "wifi password";
 
 // ==================== 修改區 ====================
-const char* btcAddress = "1LHoxBwmZzrfESxhF47Kthsh9pKfZ3i1Qe"; // 填入 pool.nerdminers.org 查詢用的同一個地址
+const char* btcAddress = "1L..."; // 填入 pool.nerdminers.org 查詢用的同一個BTC地址
 // ===============================================
 
 // 初始化 U8g2 (使用 HW I2C, 128x64 結構)
